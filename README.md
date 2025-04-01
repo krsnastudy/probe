@@ -79,11 +79,11 @@ Content-Type: application/json
 ```
 **Response:**
 ```
-Final Position: (2, 2) facing E | Visited: [0,0,0,1,0,2,1,2,2,2]
+Final Position: (2, 2) facing E | Visited: [0,0, 0,1, 0,2, 1,2, 2,2]
 ```
 
 ## Running Tests
-To run tests and check code coverage, execute:
+To run tests execute:
 ```sh
 mvn test
 ```
@@ -92,3 +92,6 @@ mvn test
 - Support for different grid sizes.
 - Improved logging and error handling.
 - Database persistence for probe movements.
+
+## Jar File Location
+/probe/jarFile/probe-0.0.1-SNAPSHOT.jar
