@@ -95,3 +95,6 @@ mvn test
 
 ## Jar File Location
 /probe/jarFile/probe-0.0.1-SNAPSHOT.jar
+
+### Swagger URL
+http://localhost:8080/swagger-ui/index.html
